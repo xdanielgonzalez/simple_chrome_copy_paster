@@ -6,7 +6,7 @@ This is a zip file of an unpacked chrome extension
 
 1. To use this program download the file and unzip the chrome_copy_paster.zip file onto your computer
 
-2. Navigate to extensions on the chrome browser and ensure that developer mode is turned on
+2. Navigate to manage extensions on the chrome browser and ensure that developer mode is turned on
 
 3. Click on the load unpacked button
 
