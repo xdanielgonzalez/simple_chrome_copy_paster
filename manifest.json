@@ -1,0 +1,19 @@
+{
+    "name": "chrome_copy_paster",
+    "version": "1.4",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "ext/popup.html"
+    },
+        "background": {
+        "service_worker": "welcome/background.js"
+    },
+    "content_scripts": [
+        {
+          "matches": ["<all_urls>"],
+          "js": ["content.js"]
+        }
+    ],
+    "permissions": ["storage","activeTab","declarativeContent", "tabs", "scripting"],
+    "host_permissions": ["<all_urls>"]
+  }
