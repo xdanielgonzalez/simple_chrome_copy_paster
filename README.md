@@ -1,5 +1,5 @@
 # simple_chrome_copy_paster
-Chrome extension with a html demo file
+>Chrome extension with a html demo file to demo it can copy and paste text into different fields. A proof of concept for another program I would like to make
 
 
 This is a zip file of an unpacked chrome extension
