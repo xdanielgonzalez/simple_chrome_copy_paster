@@ -4,7 +4,7 @@
 
 This is a zip file of an unpacked chrome extension
 
-To use this program unzip the chrome_copy_paster.zip file onto your computer
+To use this program download the file and unzip the chrome_copy_paster.zip file onto your computer
 
 Navigate to extensions on the chrome browser and ensure that developer mode is turned on
 
