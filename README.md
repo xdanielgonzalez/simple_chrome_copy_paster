@@ -4,17 +4,17 @@
 
 This is a zip file of an unpacked chrome extension
 
-To use this program download the file and unzip the chrome_copy_paster.zip file onto your computer
+1. To use this program download the file and unzip the chrome_copy_paster.zip file onto your computer
 
-Navigate to extensions on the chrome browser and ensure that developer mode is turned on
+2. Navigate to extensions on the chrome browser and ensure that developer mode is turned on
 
-Click on the load unpacked button
+3. Click on the load unpacked button
 
-In the folder navigation menu select the folder titled **"chrome_copy_paster"**
+4. In the folder navigation menu select the **folder** titled **"chrome_copy_paster"**
 
-The extension should automatically be installed
+5. The extension should automatically be installed
 
-To use the extension please use the **demo_page.html** file in the folder titled **"chrome_copy_paster"**
+6. To use the extension please use the **demo_page.html** file in the folder titled **"chrome_copy_paster"**
 
 (the extension is looking for fields that currently only exist on that page)
 
