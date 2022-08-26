@@ -10,9 +10,9 @@ Navigate to extensions on the chrome browser and ensure that developer mode is t
 
 Click on the load unpacked button
 
-In the folder navigattion menu select the folder titled **"chrome_copy_paster"**
+In the folder navigation menu select the folder titled **"chrome_copy_paster"**
 
-The extension should be installed
+The extension should automatically be installed
 
 To use the extension please use the **demo_page.html** file in the folder titled **"chrome_copy_paster"**
 
