@@ -14,6 +14,6 @@ The extension should be installed
 
 To use the extension please use the demo_page.html file in the unpacked extension folder
 
-(the extensions is looking for fields that currently only exist on that page)
+(the extension is looking for fields that currently only exist on that page)
 
 Then follow the instructions on the demo page (: 
